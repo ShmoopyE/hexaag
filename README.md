@@ -9,7 +9,7 @@ A tool that takes a any file supported by fiona (shapefiles, geojson, geopackage
 
 ### 2. Prerequisites:
 
-    python 3 
+    python 3.6 
 
     geo related : geopandas,shapely  
     pydata stack: numpy,scipy,pandas
